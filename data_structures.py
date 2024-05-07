@@ -50,6 +50,7 @@ class Tree:
         # subtree given tree and node: given a tree and node return the subtree 
         # leaf node: a node with no children
         # internal node: a node that is not a root node nor a leaf node
+        # add tests
 
 
 root = RootNode('root node')
